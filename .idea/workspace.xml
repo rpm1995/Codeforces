@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d74e9c-6f03-4fa4-aa9b-792ed1123282" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/935A_Fafa and his Company.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1097A_Gennady and a Card Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/1097A_Gennady and a Card Game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1097A_Gennady and a Card Game">
+  <component name="RunManager" selected="Python.935A_Fafa and his Company">
     <configuration name="1097A_Gennady and a Card Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="977A_Wrong_Subtraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="935A_Fafa and his Company" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +120,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/977A_Wrong_Subtraction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/935A_Fafa and his Company.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.935A_Fafa and his Company" />
         <item itemvalue="Python.1097A_Gennady and a Card Game" />
         <item itemvalue="Python.996A_Hit the Lottery" />
         <item itemvalue="Python.705A_Hulk" />
         <item itemvalue="Python.791A_Bear and Big Brother" />
-        <item itemvalue="Python.977A_Wrong_Subtraction" />
       </list>
     </recent_temporary>
   </component>
@@ -171,8 +171,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585798259389</updated>
-      <workItem from="1585798260626" duration="6721000" />
+      <workItem from="1585798260626" duration="7717000" />
     </task>
+    <task id="LOCAL-00001" summary="1097A">
+      <created>1586125295543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586125295543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +197,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1097A" />
+    <option name="LAST_COMMIT_MESSAGE" value="1097A" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Codeforces$935A_Fafa_and_his_Company.coverage" NAME="935A_Fafa and his Company Coverage Results" MODIFIED="1586126231496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$977A_Wrong_Subtraction.coverage" NAME="977A_Wrong_Subtraction Coverage Results" MODIFIED="1585799346034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$996A_Hit_the_Lottery.coverage" NAME="996A_Hit the Lottery Coverage Results" MODIFIED="1586123941128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$1097A_Gennady_and_a_Card_Game.coverage" NAME="1097A_Gennady and a Card Game Coverage Results" MODIFIED="1586125167224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
