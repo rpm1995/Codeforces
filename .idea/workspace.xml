@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96d74e9c-6f03-4fa4-aa9b-792ed1123282" name="Default Changelist" comment="" />
+    <list default="true" id="96d74e9c-6f03-4fa4-aa9b-792ed1123282" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1097A_Gennady and a Card Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/1097A_Gennady and a Card Game.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zy4zDj3lqEE2u1USf09P2qhZiS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -33,7 +40,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.996A_Hit the Lottery">
+  <component name="RunManager" selected="Python.1097A_Gennady and a Card Game">
+    <configuration name="1097A_Gennady and a Card Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codeforces" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1097A_Gennady and a Card Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="705A_Hulk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,6 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1097A_Gennady and a Card Game" />
         <item itemvalue="Python.996A_Hit the Lottery" />
         <item itemvalue="Python.705A_Hulk" />
         <item itemvalue="Python.791A_Bear and Big Brother" />
@@ -141,16 +171,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585798259389</updated>
-      <workItem from="1585798260626" duration="6145000" />
+      <workItem from="1585798260626" duration="6721000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Codeforces$977A_Wrong_Subtraction.coverage" NAME="977A_Wrong_Subtraction Coverage Results" MODIFIED="1585799346034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$996A_Hit_the_Lottery.coverage" NAME="996A_Hit the Lottery Coverage Results" MODIFIED="1586123941128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Codeforces$1097A_Gennady_and_a_Card_Game.coverage" NAME="1097A_Gennady and a Card Game Coverage Results" MODIFIED="1586125167224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$705A_Hulk.coverage" NAME="705A_Hulk Coverage Results" MODIFIED="1585943305682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$791A_Bear_and_Big_Brother.coverage" NAME="791A_Bear and Big Brother Coverage Results" MODIFIED="1585942843932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
