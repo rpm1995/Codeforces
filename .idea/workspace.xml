@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d74e9c-6f03-4fa4-aa9b-792ed1123282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1186A_Vus the Cossack and a Contest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1220A_Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/894A_QAQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Education Round 85_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Educational Round 15_A.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +27,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -41,29 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1220A_Cards">
-    <configuration name="1097A_Gennady and a Card Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Codeforces" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1097A_Gennady and a Card Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.894A_QAQ">
     <configuration name="1220A_Cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="705A_Hulk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="894A_QAQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/705A_Hulk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/894A_QAQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="996A_Hit the Lottery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Education Round 85_A" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +123,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/996A_Hit the Lottery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Education Round 85_A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Educational Round 15_A" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Codeforces" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educational Round 15_A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.894A_QAQ" />
+        <item itemvalue="Python.Educational Round 15_A" />
+        <item itemvalue="Python.Education Round 85_A" />
         <item itemvalue="Python.1220A_Cards" />
         <item itemvalue="Python.935A_Fafa and his Company" />
-        <item itemvalue="Python.1097A_Gennady and a Card Game" />
-        <item itemvalue="Python.996A_Hit the Lottery" />
-        <item itemvalue="Python.705A_Hulk" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +174,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585798259389</updated>
-      <workItem from="1585798260626" duration="9477000" />
+      <workItem from="1585798260626" duration="10096000" />
+      <workItem from="1586363143789" duration="2496000" />
+      <workItem from="1587701541775" duration="40000" />
+      <workItem from="1599405323505" duration="1868000" />
     </task>
     <task id="LOCAL-00001" summary="1097A">
       <created>1586125295543</created>
@@ -188,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586126328332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Solutions">
+      <created>1586130013133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586130013133</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +211,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -208,15 +222,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1097A" />
     <MESSAGE value="935A" />
-    <option name="LAST_COMMIT_MESSAGE" value="935A" />
+    <MESSAGE value="Solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solutions" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Codeforces$935A_Fafa_and_his_Company.coverage" NAME="935A_Fafa and his Company Coverage Results" MODIFIED="1586126231496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Codeforces$Educational_Round_15_A.coverage" NAME="Educational Round 15_A Coverage Results" MODIFIED="1599406196243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$1220A_Cards.coverage" NAME="1220A_Cards Coverage Results" MODIFIED="1586128632570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$977A_Wrong_Subtraction.coverage" NAME="977A_Wrong_Subtraction Coverage Results" MODIFIED="1585799346034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$996A_Hit_the_Lottery.coverage" NAME="996A_Hit the Lottery Coverage Results" MODIFIED="1586123941128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$1097A_Gennady_and_a_Card_Game.coverage" NAME="1097A_Gennady and a Card Game Coverage Results" MODIFIED="1586125167224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Codeforces$Education_Round_85_A.coverage" NAME="Education Round 85_A Coverage Results" MODIFIED="1599405618492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$705A_Hulk.coverage" NAME="705A_Hulk Coverage Results" MODIFIED="1585943305682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Codeforces$894A_QAQ.coverage" NAME="894A_QAQ Coverage Results" MODIFIED="1599407241396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Codeforces$791A_Bear_and_Big_Brother.coverage" NAME="791A_Bear and Big Brother Coverage Results" MODIFIED="1585942843932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
